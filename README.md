@@ -1,4 +1,4 @@
-# automation-google-search-image
+# About Projecct
 
 Task: navigate to the Google search page, search for an image, and verify that an image tab contains images.
 
@@ -8,3 +8,9 @@ and the number of images on the search results page is bigger than 12.
 The testing is performed in two browsers - Chrome and Firefox.
 
 The simplest one-file project structure.
+
+# Tools
+
+- Selenium WebDriver
+- NUnit
+- Selenium WebDriver GeckoDriver
