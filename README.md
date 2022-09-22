@@ -1,6 +1,9 @@
-# About Projecct
+# About Training Projecct
 
-Task: navigate to the Google search page, search for an image, and verify that an image tab contains images.
+Task: 
+- navigate to the Google search page, 
+- search for an image, and 
+- verify that an image tab contains images.
 
 Two tests was created to verify that the images on the page are displayed, 
 and the number of images on the search results page is bigger than 12. 
@@ -11,6 +14,7 @@ The simplest one-file project structure.
 
 # Tools
 
+- Net 6.0
 - Selenium WebDriver
+- Selenium Webdriver GeckoDriver
 - NUnit
-- Selenium WebDriver GeckoDriver
