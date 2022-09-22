@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJyU7t9zUMXSt8Yqm4R9wpjXc5fVerwgb+3KGLHrPwU+FDn2qo7HRysfBs535eAxLiudP/S6iNWdSudCjUxRUw==",
+  "success": true,
+  "projectFilePath": "D:\\WorkDir\\EPAM\\GitHub\\automation-google-search-image\\googleSearchImageTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\us5rb\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\selenium.webdriver.chromedriver\\105.0.5195.5200\\selenium.webdriver.chromedriver.105.0.5195.5200.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.31.0.1\\selenium.webdriver.geckodriver.0.31.0.1.nupkg.sha512",
+    "C:\\Users\\us5rb\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
